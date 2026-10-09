@@ -14,4 +14,4 @@ the basketball spin shader achieves the purpose of making the ball look like it 
 
  ** every light shader**
 
- the shader that changes light styles would detect when the ball collides with something then changes the shader booleans to make it change values and light amounts.
+ the shader that changes light styles would detect when the ball collides with something then changes the shader booleans to make it change values and light amounts. however I could not implement this changing in time. This shder is on the player.
